@@ -1,2 +1,2 @@
-# hello-world
-Initial Repository
+# Introduction
+This repo is for Google Cloud Platform related coding
